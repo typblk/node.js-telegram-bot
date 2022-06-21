@@ -1,4 +1,4 @@
-const token = "5461429216:AAE8t7F3taK1kNProZV5iZjRsSr_Hd2Kg9o"
+const token = "5461429216:AAE8t7F3taK1kNProZV5iZjRsSr"
 const { Telegraf } = require('telegraf')
 
 
